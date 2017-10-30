@@ -7,3 +7,7 @@ O projeto em questão tem por objetivo o desenvolvimento de uma identidade visual
 
 1. Levantamento de requisitos
 2. Idealização da identidade visual
+	2.1. Briefing
+	2.2. Brainstorm
+	2.3. Criação de rough
+	2.4. Desenvolvimento do MIV
